@@ -25,8 +25,11 @@
          Het verhaal werd gebaseerd op de ideeën van astrofysicus Kip Thorne, die tevens uitvoerend producent was.
          De film had een wereldwijde opbrengst van meer dan 677 miljoen Amerikaanse dollars en was daarmee de tiende succesvolste film van 2014.
          Interstellar werd genomineerd voor vier Oscars en won een Oscar voor beste visuele effecten.</p>
+         
+      <p>Jurgen vindt deze film ram kut.</p>   
 
-      <img src="https://m.media-amazon.com/images/I/A1JVqNMI7UL._AC_SY550_.jpg" alt="">
+      <img src="https://m.media-amazon.com/images/I/A1JVqNMI7UL._AC_SY550_.jpg" alt="Interstellar poster">
+      <img src="file:///Users/jurgen/Documents/my-favorite-movie/img/Interstallar.jpg" alt="Interstellar foto"
 
       <iframe width="560" height="315" src="https://www.youtube.com/embed/8kooIgKESYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
